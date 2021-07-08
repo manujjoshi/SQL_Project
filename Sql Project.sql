@@ -1,8 +1,9 @@
 
 
 				#################################### SQL Project ###########################################
-               # Name: Manuj Kumar Joshi
-               # Batch: 104
+  
+  # Name: Manuj Kumar Joshi
+             
 
 
 
